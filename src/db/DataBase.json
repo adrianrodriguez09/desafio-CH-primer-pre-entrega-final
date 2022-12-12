@@ -1,0 +1,128 @@
+[
+   {
+      "title": "Teclado",
+      "description": "PS2",
+      "price": 300,
+      "thumbnail": "Imagen 0",
+      "code": "abc122",
+      "stock": 25,
+      "id": 1
+   },
+   {
+      "title": "Parlante",
+      "description": "bluetooth",
+      "price": 1000,
+      "thumbnail": "Imagen 0",
+      "code": "abc122",
+      "stock": 20,
+      "id": 3
+   },
+   {
+      "title": "Consola",
+      "description": "PS4",
+      "price": 30000,
+      "thumbnail": "Imagen 0",
+      "code": "abc126",
+      "stock": 10,
+      "id": 4
+   },
+   {
+      "title": "Monitor",
+      "description": "PS4",
+      "price": 5000,
+      "thumbnail": "Imagen 0",
+      "code": "abc126",
+      "stock": 10,
+      "id": 5
+   },
+   {
+      "title": "Mouse",
+      "description": "PS2",
+      "price": 90,
+      "thumbnail": "Imagen 3",
+      "code": "aab171",
+      "stock": 5,
+      "id": 6
+   },
+   {
+      "title": "Impresora",
+      "description": "USB y WIFI",
+      "price": 5500,
+      "thumbnail": "Imagen 16",
+      "code": "ccv159",
+      "stock": 2,
+      "id": 7
+   },
+   {
+      "title": "Soporte ",
+      "description": "para monitor hasta 24 pulgadas",
+      "price": 2600,
+      "thumbnail": "Imagen 6",
+      "code": "h5623",
+      "stock": 3,
+      "id": 8
+   },
+   {
+      "title": "Placa de video",
+      "description": "GTX 1125",
+      "price": 10560,
+      "thumbnail": "Imagen 6",
+      "code": "bnh158",
+      "stock": 1,
+      "id": 9
+   },
+   {
+      "title": "Microprocesador",
+      "description": "Intel I5 12th (1400)",
+      "price": 15485,
+      "thumbnail": "Imagen 89",
+      "code": "bnw635",
+      "stock": 2,
+      "id": 10
+   },
+   {
+      "title": "Disco sólido",
+      "description": "240 Gb, sata 3",
+      "price": 8560,
+      "thumbnail": "Imagen 89",
+      "code": "bnw635",
+      "stock": 2,
+      "id": 11
+   },
+   {
+      "title": "Disco rígido",
+      "description": "1 Tb, sata 3",
+      "price": 7500,
+      "thumbnail": "Imagen 89",
+      "code": "bnw635",
+      "stock": 2,
+      "id": 12
+   },
+   {
+      "title": "Router",
+      "description": "ethernet",
+      "thumbnail": "Imagen 15",
+      "price": 1300,
+      "code": "abc122",
+      "stock": 4,
+      "id": 13
+   },
+   {
+      "title": "Router",
+      "description": "wireless",
+      "thumbnail": "Imagen 63",
+      "price": 1800,
+      "code": "abc122",
+      "stock": 3,
+      "id": 14
+   },
+   {
+      "title": "Router",
+      "description": "wireless",
+      "thumbnail": "Imagen 63",
+      "price": 1800,
+      "code": "abc122",
+      "stock": 3,
+      "id": 15
+   }
+]
